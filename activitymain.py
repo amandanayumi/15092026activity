@@ -1,4 +1,3 @@
-
 preco_hamburguer = 25.00
 preco_batata = 15.00
 preco_refrigerante = 8.00
