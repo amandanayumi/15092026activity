@@ -1,6 +1,6 @@
-preco_hamburguer = 25.00
-preco_batata = 15.00
-preco_refrigerante = 8.00
+preco_hamburguer = 30.00
+preco_batata = 25.00
+preco_refrigerante = 10.00
 
 print("=== CARDÁPIO ===")
 print(f"Hambúrguer: R$ {preco_hamburguer:.2f}")
